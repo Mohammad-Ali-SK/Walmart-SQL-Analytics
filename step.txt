@@ -1,0 +1,8 @@
+1.How to download kaggle Datasets ?
+Open Terminal and Type ------------Kaggle datasets download -d (paste datasets user name)
+
+
+
+2. How to Unzip File ?
+
+unzip (pase file path)
